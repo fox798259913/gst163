@@ -20,10 +20,12 @@
 	"cateVodImg": "substring-before(substring-after(//div[@class='post-box-image']/@style, \"background-image: url(\"), \");\")",
 	"cateVodMark": "substring-before(substring-after(//div[@class='post-box-text']/h2[@class='post-box-title']/a/text(), \"(\"), \")\")",
 
-	"dtUrl": "https://ddrk.me/{vid}",
+	"dtUrl": "https://ddrk.me/crime-2021",
 	"dtNode": "//div[@class='post-content']",
 	"dtName": "//div[@class='title']/a[@class='cute']/text()",
+	"dtNameR": "",
 	"dtImg": "//div[@class='post']/img/@src",
+	"dtImgR": "",
     // // 视频分类
 	// "dtCate": "//div[@class='col-md-8']//span[@class='info-label' and contains(text(), '类型')]/parent::*/following-sibling::*/text()",
 	// "dtCateR": "",
@@ -47,12 +49,21 @@
 	// "dtDescR": "",
 	"dtFromNode": "//div[@class='post-content']/div[@class='entry']/p[1]",
 	"dtFromName": "//text()",
+	"dtFromNameR": "",
 	"dtUrlNode": "//div[@class='wp-playlist-tracks']",
 	"dtUrlSubNode": "//div[contains(@class,'wp-playlist-item')]/a",
 	"dtUrlId": "substring-before(/text(), \".\")",
+	"dtUrlIdR": "",
 	"dtUrlName": "/text()",
-    // 播放页面的地址 {playUrl} 对应上面 dtUrlId 获取到的地址
-	"playUrl": "https://ddrk.me/{vid}/?ep={playUrl}",
+	"dtUrlNameR": "",
+	"playUrl": "https://ddrk.me/crime-2021/?ep=1",
 	"playUa": "",
 	"searchUrl": "",
+    
+	"scVodNode": "//div[@class='movie-item']/a",
+	"scVodName": "/@title",
+	"scVodId": "/@href",
+	"scVodIdR": "/show/(\\w+).html",
+	"scVodImg": "/img/@src",
+	"scVodMark": "/button/text()"
 }
