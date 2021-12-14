@@ -52,7 +52,7 @@
 	"dtUrlId": "substring-before(/text(), \".\")",
 	"dtUrlName": "/text()",
     // 播放页面的地址 {playUrl} 对应上面 dtUrlId 获取到的地址
-	"playUrl": "https://ddrk.me/{}/?ep={playUrl}",
+	"playUrl": "https://ddrk.me/{vid}/?ep={playUrl}",
 	"playUa": "",
 	"searchUrl": "",
 }
