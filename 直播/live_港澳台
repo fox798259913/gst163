@@ -38,6 +38,7 @@ M20TV,http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
 大爱一台,https://pulltv1.wanfudaluye.com/live/tv1.m3u8#rtmp://45.88.148.114/channel/60b4e50239e1b02e8b910c7a?sign=epgg4bkSF4hx%2BZ5WNsuYKsEpljb%2FpPGYAqq21iv2vQJp%2B%2B%2FBLThgPxbdMeXbUy1XfWEH
 大爱二台,https://pulltv2.wanfudaluye.com/live/tv2.m3u8#rtmp://45.88.148.122/channel/60c3441b961593122ebaf99a?sign=epgg4bkSF4hx%2BZ5WNsuYKsEpljb%2FpPGYAqq21iv2vQJp%2B%2B%2FBLThgPxbdMeXbUy1XfWEH
 大爱海外,https://pulltv3.wanfudaluye.com/live/tv3.m3u8
+三立综合台,http://anan.jxin122.top/cstv/cjj.php?id=23
 三立台湾台,http://211.23.114.106:8521/http/60.251.39.91:8081/hls/65/807/ch20.m3u8#https://setlive-lh.akamaihd.net/i/settaiwan_1@301196/index_1080_av-b.m3u8?sd=10&amp;rebase=on#https://setlive-lh.akamaihd.net/i/settaiwan_1@301196/index_1080_av-b.m3u8?sd=10&rebase=on#https://setlive-lh.akamaihd.net/i/settaiwan_1@301196/index_1080_av-b.m3u8#http://50.7.61.148:30080/Entry/settw-#rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910c78?sign=epgg4bkSF4hx%2BZ5WNsuYKsEpljb%2FpPGYAqq21iv2vQJp%2B%2B%2FBLThgPxbdMeXbUy1XfWEH
 三立都会台,http://211.23.114.106:8522/http/60.251.39.91:8081/hls/65/807/ch19.m3u8#https://setlive-lh.akamaihd.net/i/setmetro_1@132201/index_1080_av-b.m3u8?sd=10&amp;rebase=on#https://setlive-lh.akamaihd.net/i/setmetro_1@132201/index_1080_av-b.m3u8?sd=10&rebase=on#https://setlive-lh.akamaihd.net/i/setmetro_1@132201/index_1080_av-b.m3u8#rtmp://45.92.126.226/channel/60c53f4a961593122ebafa48?sign=epgg4bkSF4hx%2BZ5WNsuYKsEpljb%2FpPGYAqq21iv2vQJp%2B%2B%2FBLThgPxbdMeXbUy1XfWEH
 卫视中文台,http://211.23.114.106:8514/http/60.251.39.91:8081/hls/62/804/ch05.m3u8#http://50.7.61.148:30080/Entry/starchinese#http://50.7.61.148:30080/Entry/starchinese
@@ -98,6 +99,13 @@ RHK33,https://cdn.hkdtmb.com/hls/33/index.m3u8
 Music TV,http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
 HOBOC音乐台,http://hls-video01.cdnvideo.ru/video01/smil:video01.smil/chunklist_b4128000.m3u8
 
-三立台湾,http://50.7.61.148:30080/Entry/settw-#https://setlive-lh.akamaihd.net/i/settaiwan_1@301196/index_1080_av-b.m3u8?sd=10&rebase=on#https://flv3948069e.live.126.net/live/9bb04729e769dd16099ef32e1f68248e.flv#http://50.7.61.148:30080/Entry/settw-
-三立都会,https://setlive-lh.akamaihd.net/i/setmetro_1@132201/index_1080_av-b.m3u8?sd=10&rebase=on#https://setlive-lh.akamaihd.net/i/setmetro_1@132201/index_1080_av-b.m3u8?sd=10&rebase=on#https://flv3948069e.live.126.net/live/f07d80f2fe2f9b9414885b4df861775e.flv
-三立综合,http://anan.jxin122.top/cstv/cjj.php?id=23
+全佳,http://50.7.161.82:8278/streams/d/Quanjia/playlist.m3u8
+双星,http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
+欢喜,http://198.16.106.62:8278/streams/d/Huahee/playlist.m3u8
+AOD-HD,http://198.16.106.62:8278/streams/d/AodHD/playlist.m3u8
+AOD,http://50.7.161.82:8277/streams/d/aod_pye/playlist.m3u8
+AEC,http://50.7.161.82:8277/streams/d/aec_pye/playlist.m3u8
+IQIYI,http://50.7.161.82:8277/streams/d/iqiyi_pye/playlist.m3u8
+小太阳,http://50.7.161.82:8278/streams/d/Xiaotaiyang/playlist.m3u8
+天映經典,http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
+天映頻道,http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
