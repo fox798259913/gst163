@@ -56,13 +56,13 @@ M20TV,http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
 龍華動畫台,http://211.23.114.106:8528#http/59.120.8.187:8066/hls/210/10013/cstv13.m3u8#http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn01#http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn01
 龍華經典台,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn21#http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn21
 愛爾達綜合台,http://93.190.139.36:8278/streams/d/eltazonghe/playlist.m3u8
-MoMo綜合台,rtmp://59.124.75.138/sat/tv761#rtmp://9wv7.mine.nu/sat/tv761#rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910cc8?sign=epgg4bkSF4hx%2BZ5WNsuYKsEpljb%2FpPGYAqq21iv2vQJp%2B%2B%2FBLThgPxbdMeXbUy1XfWEH#http://58.99.33.16:1935/liveedge17/live_075_3.stream/chunklist.m3u8
+MoMo綜合台,rtmp://59.124.75.157:1935/sat/tv761#rtmp://59.124.75.157/sat/tv761#rtmp://59.124.75.138/sat/tv761#rtmp://9wv7.mine.nu/sat/tv761#rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910cc8?sign=epgg4bkSF4hx%2BZ5WNsuYKsEpljb%2FpPGYAqq21iv2vQJp%2B%2B%2FBLThgPxbdMeXbUy1XfWEH#http://58.99.33.16:1935/liveedge17/live_075_3.stream/chunklist.m3u8
 海豚綜合,http://58.99.33.16:1935/liveedge17/live_077_3.stream/chunklist.m3u8
 美麗人生,http://58.99.33.16:1935/liveedge17/live_070_3.stream/chunklist.m3u8
 東風衛視,http://211.23.114.106:8578#http/60.251.39.91:8081/hls/68/810/ch31.m3u8
 東森新聞,http://211.23.114.106:8540#http/60.251.39.91:8081/hls/63/805/ch10.m3u8#rtmp://45.88.148.178/channel/6100144cf0618408855f36e1?sign=epgg4bkSF4hx%2BZ5WNsuYKsEpljb%2FpPGYAqq21iv2vQJp%2B%2B%2FBLThgPxbdMeXbUy1XfWEH
 東森綜合,http://211.23.114.106:8524#http/60.251.39.91:8081/hls/63/805/ch12.m3u8#rtmp://45.88.148.122/channel/60b4e50239e1b02e8b910d86?sign=epgg4bkSF4hx%2BZ5WNsuYKsEpljb%2FpPGYAqq21iv2vQJp%2B%2B%2FBLThgPxbdMeXbUy1XfWEH
-東森超視,rtmp://9wv7.mine.nu/sat/tv521#http://211.23.114.106:8525#http/60.251.39.91:8081/hls/64/806/ch14.m3u8#rtmp://104.149.130.142/channel/60b4e50239e1b02e8b910d8e?sign=epgg4bkSF4hx%2BZ5WNsuYKsEpljb%2FpPGYAqq21iv2vQJp%2B%2B%2FBLThgPxbdMeXbUy1XfWEH
+東森超視,rtmp://59.124.75.157:1935/sat/tv521#rtmp://59.124.75.157/sat/tv521#rtmp://9wv7.mine.nu/sat/tv521#http://211.23.114.106:8525#http/60.251.39.91:8081/hls/64/806/ch14.m3u8#rtmp://104.149.130.142/channel/60b4e50239e1b02e8b910d8e?sign=epgg4bkSF4hx%2BZ5WNsuYKsEpljb%2FpPGYAqq21iv2vQJp%2B%2B%2FBLThgPxbdMeXbUy1XfWEH
 東森幼幼,http://211.23.114.106:8515#http/61.221.81.94:8088/hls/63/805/ch09.m3u8#rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d84?sign=epgg4bkSF4hx%2BZ5WNsuYKsEpljb%2FpPGYAqq21iv2vQJp%2B%2B%2FBLThgPxbdMeXbUy1XfWEH
 東森戲劇,http://211.23.114.106:8530#http/60.251.39.91:8081/hls/64/806/ch13.m3u8#rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d88#rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d88?sign=epgg4bkSF4hx%2BZ5WNsuYKsEpljb%2FpPGYAqq21iv2vQJp%2B%2B%2FBLThgPxbdMeXbUy1XfWEH
 東森財經,rtmp://9wv7.mine.nu/sat/tv571#rtmp://59.124.75.138/sat/tv571#http://211.23.114.106:8546#http/116.50.42.19:8081/hls/63/805/ch11.m3u8#rtmp://104.149.141.122/channel/60b4e50239e1b02e8b910c84?sign=epgg4bkSF4hx%2BZ5WNsuYKsEpljb%2FpPGYAqq21iv2vQJp%2B%2B%2FBLThgPxbdMeXbUy1XfWEH
@@ -78,18 +78,6 @@ JET綜合台,rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910c74?sign=epgg4bkS
 八大戲劇,http://211.23.114.106:8531#http/60.251.39.91:8081/hls/66/808/ch23.m3u8#rtmp://45.83.118.242/channel/60c31d53961593122ebaf92f?sign=epgg4bkSF4hx%2BZ5WNsuYKsEpljb%2FpPGYAqq21iv2vQJp%2B%2B%2FBLThgPxbdMeXbUy1XfWEH
 八大娛樂,rtmp://45.88.148.122/channel/60c31db1961593122ebaf931?sign=epgg4bkSF4hx%2BZ5WNsuYKsEpljb%2FpPGYAqq21iv2vQJp%2B%2B%2FBLThgPxbdMeXbUy1XfWEH
 八大精彩,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv034
-
-MuchTV,http://211.23.114.106:8529#http/60.251.39.91:8081/hls/72/814/ch45.m3u8 
-WAKUWAKU JAPAN,http://211.23.114.106:8538#http/60.251.39.91:8081/hls/61/803/ch03.m3u8 
-
-东森超视,rtmp://59.124.75.157:1935/sat/tv521#rtmp://59.124.75.157/sat/tv521
-东森财经,rtmp://59.124.75.157:1935/sat/tv571#rtmp://59.124.75.157/sat/tv571
-纬来体育,rtmp://59.124.75.157:1935/sat/tv721#rtmp://59.124.75.157/sat/tv721
-纬来育乐,rtmp://59.124.75.157:1935/sat/tv701#rtmp://59.124.75.157/sat/tv701
-爱尔体育,rtmp://59.124.75.157:1935/sat/md011#rtmp://59.124.75.157/sat/md011
-纬来日本,rtmp://59.124.75.157:1935/sat/tv771#rtmp://59.124.75.157/sat/tv771
-博斯魅力,rtmp://59.124.75.157:1935/sat/md041#rtmp://59.124.75.157/sat/md041
-MoMo台,rtmp://59.124.75.157:1935/sat/tv761#rtmp://59.124.75.157/sat/tv761
 
 Channel[V],rtmp://ivi.bupt.edu.cn:1935/livetv/channelv
 Y+剧场,http://117.148.179.161/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230226/index.m3u8#http://117.148.179.160/PLTV/88888888/224/3221230226/index.m3u8#http://117.148.179.160/PLTV/88888888/224/3221230226/index.m3u8
