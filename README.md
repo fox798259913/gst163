@@ -1,7 +1,9 @@
-#自用TV相关
+#自用
 
 ##海阔视界
+
 ###[教程](https://www.bilibili.com/video/BV1YN411Q7Ho)
+
 ###下载
 ```
 https://haikuo.lanzoui.com/u/GoldRiver
