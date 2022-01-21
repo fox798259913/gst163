@@ -17,7 +17,7 @@
 		"综艺": "3",
 		"动漫": "4"
 	},
-	"homeVodNode": "//div[@class='myui-panel-box clearfix']/div[@class='myui-panel_bd clearfix']//ul[@class='myui-vodlist clearfix']//li/a",
+	"homeVodNode": "//div[@class='myui-panel-box clearfix']//div[@class='myui-panel_bd clearfix']//ul[@class='myui-vodlist clearfix']//li/a",
 	"homeVodName": "/@title",
 	"homeVodId": "/@href",
 	"homeVodIdR": "/voddetail/(\\w+).html",
