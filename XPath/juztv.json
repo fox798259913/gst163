@@ -19,7 +19,7 @@
 	"homeVodNode": "//div[contains(@class, 'stui-vodlist__box')]/a[contains(@class,'stui-vodlist__thumb')]",
 	"homeVodName": "/@title",
 	"homeVodId": "/@href",
-	"homeVodIdR": "/detail/(\\w+)/",
+	"homeVodIdR": "/voddetail/(\\w+)/",
 	"homeVodImg": "/@data-original",
 	"homeVodMark": "/span[contains(@class,'pic-text text-right')]/text()",
 	"cateUrl": "https://www.wuguiyy.com/type/{cateId}-{catePg}/",
