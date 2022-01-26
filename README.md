@@ -4,10 +4,7 @@
 
 ###[教程](https://www.bilibili.com/video/BV1YN411Q7Ho)
 
-###下载
-```
-https://haikuo.lanzoui.com/u/GoldRiver
-```
+###[下载](https://haikuo.lanzoui.com/u/GoldRiver)
 
 ###复制规则
 ```
