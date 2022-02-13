@@ -102,13 +102,13 @@ FOX频道,http://211.23.114.106:8561#http/116.50.42.19:8081/hls/61/803/ch02.m3u8
 CINEMAX,http://211.23.114.106:8559#http/116.50.42.19:8081/hls/71/813/ch42.m3u8#http://211.23.114.106:8559#http/116.50.42.19:8081/hls/71/813/ch42.m3u8#rtmp://104.149.141.122/channel/60b4e50239e1b02e8b910cac?sign=epgg4bkSF4hx%2BZ5WNsuYKsEpljb%2FpPGYAqq21iv2vQJp%2B%2B%2FBLThgPxbdMeXbUy1XfWEH#http://211.23.114.106:8516#http/61.221.81.94:8088/hls/70/812/ch39.m3u8#rtmp://104.149.191.182/channel/6162d63d295d84395baffed0?sign=epgg4bkSF4hx%2BZ5WNsuYKsEpljb%2FpPGYAqq21iv2vQJp%2B%2B%2FBLThgPxbdMeXbUy1XfWEH#https://feed.play.mv/live/10005200/isU48qPZqV/master.m3u8
 国家地理,http://211.23.114.106:8509#http/61.221.81.94:8088/hls/61/803/ch01.m3u8#rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910ca6#http://211.23.114.106:8509#http/61.221.81.94:8088/hls/61/803/ch01.m3u8#rtmp://45.88.148.122/channel/60b4e50239e1b02e8b910d70?sign=epgg4bkSF4hx%2BZ5WNsuYKsEpljb%2FpPGYAqq21iv2vQJp%2B%2B%2FBLThgPxbdMeXbUy1XfWEH#rtmp://104.149.141.122/channel/60b4e50239e1b02e8b910d1e?sign=epgg4bkSF4hx%2BZ5WNsuYKsEpljb%2FpPGYAqq21iv2vQJp%2B%2B%2FBLThgPxbdMeXbUy1XfWEH#http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
 法国时尚,http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8#rtmp://45.88.148.122/channel/60b4e50239e1b02e8b910c5c?sign=epgg4bkSF4hx%2BZ5WNsuYKsEpljb%2FpPGYAqq21iv2vQJp%2B%2B%2FBLThgPxbdMeXbUy1XfWEH#rtmp://45.88.148.114/channel/61004184f0618408855f3758?sign=epgg4bkSF4hx%2BZ5WNsuYKsEpljb%2FpPGYAqq21iv2vQJp%2B%2B%2FBLThgPxbdMeXbUy1XfWEH
-Discovery,http://211.23.114.106:8510#http/61.221.81.94:8088/hls/71/813/ch44.m3u8
+Discovery,http://iptv.tvfix.org/hls/discovery.m3u8#http://211.23.114.106:8510#http/61.221.81.94:8088/hls/71/813/ch44.m3u8
 旅游生活,http://211.23.114.106:8570#http/61.221.81.94:8088/hls/70/812/ch38.m3u8
 动物星球,http://211.23.114.106:8512#http/61.221.81.94:8088/hls/70/812/ch37.m3u8
 亚洲旅游,http://211.23.114.106:8513#http/61.221.81.94:8088/hls/76/818/ch61.m3u8
 迪士尼,http://211.23.114.106:8581#http/61.221.81.94:8088/hls/70/812/ch40.m3u8
 M20TV,http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
-ANIMAX,http://211.23.114.106:8516#http/61.221.81.94:8088/hls/70/812/ch39.m3u8
+ANIMAX,http://211.23.114.106:8516/http/61.221.81.94:8088/hls/70/812/ch39.m3u8#http://211.23.114.106:8516#http/61.221.81.94:8088/hls/70/812/ch39.m3u8
 Channel[V],rtmp://ivi.bupt.edu.cn:1935/livetv/channelv
 Y+剧场,http://117.148.179.161/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230226/index.m3u8#http://117.148.179.160/PLTV/88888888/224/3221230226/index.m3u8#http://117.148.179.160/PLTV/88888888/224/3221230226/index.m3u8
 爱尔达综合,http://93.190.139.36:8278/streams/d/eltazonghe/playlist.m3u8
